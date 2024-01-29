@@ -9,10 +9,10 @@ const HeaderNav = () => {
         <Navbar.Collapse id="navbar" className="d-flex flex-row">
           <Nav className="ml-auto d-flex" style={{ width: "100%", justifyContent: "space-around"}}>
   
-              <Nav.Link className="nav-link" as={Link} to="/book">
+              <Nav.Link className="nav-link" as={Link} to="/corey-booking-site/book">
                 Book a Session
               </Nav.Link>
-              <Nav.Link className="nav-link" as={Link} to="/">
+              <Nav.Link className="nav-link" as={Link} to="/corey-booking-site">
                 Learn More
               </Nav.Link>
              

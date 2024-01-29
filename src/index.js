@@ -12,7 +12,7 @@ import ErrorPage from "./pages/Error"
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/corey-booking-site',
     element: <App />,
     errorElement: <ErrorPage />,
     children: [
