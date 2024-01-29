@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/corey-booking-site/static/css/main.0481c6ec.css",
+    "main.js": "/corey-booking-site/static/js/main.2e763b78.js",
+    "static/js/787.4288a5b6.chunk.js": "/corey-booking-site/static/js/787.4288a5b6.chunk.js",
+    "index.html": "/corey-booking-site/index.html",
+    "main.0481c6ec.css.map": "/corey-booking-site/static/css/main.0481c6ec.css.map",
+    "main.2e763b78.js.map": "/corey-booking-site/static/js/main.2e763b78.js.map",
+    "787.4288a5b6.chunk.js.map": "/corey-booking-site/static/js/787.4288a5b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0481c6ec.css",
+    "static/js/main.2e763b78.js"
+  ]
+}
